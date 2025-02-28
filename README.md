@@ -165,7 +165,7 @@ This case study explores the relationship between various social and economic fa
 
 You can access the main files of this repository through the following links:
 
-- [Main Repository File](./https://github.com/Prajwalshardul0369/NUMPY)
+- [Main numpy  Repository File](https://github.com/Prajwalshardul0369/NUMPY-/tree/main)
 
 
 
